@@ -22,5 +22,5 @@ I’m a **Computer Science student** passionate about exploring the endless poss
 
 ### 🔗 Let’s Connect!
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com)  
+- **LinkedIn:** www.linkedin.com/in/abdullah-afzal-cd  
 - **GitHub:** [@AbdullahAfzal](https://github.com/AbdullahAfzal)  
