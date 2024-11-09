@@ -18,7 +18,6 @@ I’m a **Computer Science student** passionate about exploring the endless poss
 
 ### 🌱 I’m Learning
 
-- Improving my skills in UI/UX to create intuitive and accessible user interfaces.
 - Exploring more advanced features in **React** and **Node.js** to enhance my full-stack development capabilities.
 
 ### 🔗 Let’s Connect!
