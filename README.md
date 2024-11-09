@@ -23,4 +23,4 @@ I’m a **Computer Science student** passionate about exploring the endless poss
 ### 🔗 Let’s Connect!
 
 - **LinkedIn:** www.linkedin.com/in/abdullah-afzal-cd
-- **Email** abdullah941685@gmail.ocm
+- **Email:** abdullah941685@gmail.ocm
